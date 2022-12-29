@@ -1,16 +1,12 @@
 # interactive_login
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+dependencies used:
+```yaml
+rive: ^0.9.0
+```
+<br>
+resource used: <a href='https://rive.app/community/2244-4437-animated-login-screen/'>teddy</a>
+<br><br>
+app presentation:
+<br><br>
+<img src="https://media.giphy.com/media/giIUVyOMFD7EnpIE5v/giphy.gif" />
